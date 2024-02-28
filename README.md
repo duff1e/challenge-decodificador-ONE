@@ -13,5 +13,8 @@ O projeto consiste em utilizar HTML, CSS e JavaScript para criar um decodificado
 |       u        |       ufat       |
 
 Para fins de incrementar o conforto do usuário, foi adicionada uma funcionalidade para troca do modo light para modo dark e vice-versa.
+Todo o projeto (espero que esteja) está compatível com dispositivos móveis. Foi testado nos navegadores Mozilla Firefox e Google Chrome, utilizando as Dev Tools para testes de responsividade.
+
+https://github.com/duff1e/challenge-decodificador-ONE/assets/51765144/3b008a97-e8a7-412b-935e-748423780e6e
 
 Espero que gostem do resultado!
