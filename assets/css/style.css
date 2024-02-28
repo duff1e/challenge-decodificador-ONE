@@ -232,7 +232,7 @@ body {
     }
 
     .header {
-        margin-top: 4.58875rem;
+        margin-top: 2rem;
         margin-left: 2.5rem;
     }
 
@@ -258,7 +258,12 @@ body {
     }
 
     .content-input {
+        margin-top: -70px;
         width: 95%;
+    }
+
+    .content-input-text {
+        height: 20rem;
     }
 
     .main-buttons {
